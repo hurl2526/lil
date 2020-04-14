@@ -36,19 +36,11 @@ const Lil = function(){
         return removed
         },
 
-        removeFromEnd: function(){
-          let removed = thing.next.value
-          while ()
-          return removed
-        }
-    //     const remove = this[0]
-    //   for (let i = 0;i < this.length; i++){
-    //     this[i] = this[i+1]
-    //   }
-    //   delete this[this.length-1]
-    //   this.length--
-    //   return remove
-    // },
+        // removeFromEnd: function(){
+        //   let removed = thing.next.value
+        //   while ()
+        //   return removed
+        // }
     }
   }
 
